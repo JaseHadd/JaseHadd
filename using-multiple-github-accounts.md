@@ -1,6 +1,6 @@
 ## Problem
 You have two different Github accounts that you want to use on the same computer with SSH keys.
-Perhaps one is for personal projectse and one is for work.
+Perhaps one is for personal projects and one is for work.
 
 ## Solution Summary
 You can use two different SSH keys, and modify your SSH & Git configs to allow you to use different accounts
